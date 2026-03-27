@@ -59,7 +59,9 @@ Explorer:
 https://stellar.expert/explorer/testnet/contract/CCAEP4KIFDESQR6JA7AQG5UHESRUWHKZ225EQAFEFKPT4Y5PPOUKNQ3G
 ---
 🖼️ Screenshot
-![Contract](https://github.com/user-attachments/assets/1db68ed7-d188-4125-a930-98911dd3b714)
+<img width="1301" height="494" alt="{83A3936C-F01A-4D5E-8627-A6A610631727}" src="https://github.com/user-attachments/assets/5f5b7d17-668a-4287-b3a8-67a820ad5751" />
+<img width="1324" height="376" alt="{C4700DFF-3BD4-46E5-837E-0E1041949926}" src="https://github.com/user-attachments/assets/4e7ce586-e97b-42ea-b1f7-65c2d097e18c" />
+
 ---
 🚀 Future Scope
 🎮 Gamification
